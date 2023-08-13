@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-13T10:40:09.364Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="vLLuuF410gnJ-O5oGUL-" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-13T10:43:24.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="_j2AIX65qnZKARBwpQys" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1197" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="986" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -78,8 +78,22 @@
         <mxCell id="SThqzOXJV5U-f5qVjNMN-31" value="&lt;ul style=&quot;text-align: start; box-sizing: border-box; margin: 0px; padding: 0px; caret-color: rgb(42, 43, 46); color: rgb(42, 43, 46); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Arial, &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, 宋体, &amp;quot;Malgun Gothic&amp;quot;, sans-serif; font-size: 14px;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; list-style: none;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 2px; padding: 0px; line-height: 21px; display: inline; font-size: var(--main-font-size);&quot; class=&quot;src grammarSection&quot; data-group=&quot;1-1&quot;&gt;Edit order&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="707.5" y="240" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SThqzOXJV5U-f5qVjNMN-33" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="712.5" y="320" width="85" height="45" as="geometry" />
+        <mxCell id="SThqzOXJV5U-f5qVjNMN-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SThqzOXJV5U-f5qVjNMN-33" target="SThqzOXJV5U-f5qVjNMN-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThqzOXJV5U-f5qVjNMN-33" value="submit order" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710.63" y="320" width="88.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThqzOXJV5U-f5qVjNMN-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SThqzOXJV5U-f5qVjNMN-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755.0050000000001" y="483.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThqzOXJV5U-f5qVjNMN-36" value="pay&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="715" y="398.5" width="80.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThqzOXJV5U-f5qVjNMN-40" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="480" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
